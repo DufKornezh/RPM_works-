@@ -1,0 +1,9 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\bin\Debug\Color in BaW.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\bin\Debug\Color in BaW.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\bin\Debug\Color in BaW.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\obj\Debug\Color in BaW.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\obj\Debug\Color_in_BaW.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\obj\Debug\Color_in_BaW.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\obj\Debug\Color in BaW.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\obj\Debug\Color in BaW.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\Color in BaW\Color in BaW\obj\Debug\Color in BaW.pdb

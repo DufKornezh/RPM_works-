@@ -1,0 +1,9 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\bin\Debug\MATRIXCALCULATOR.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\bin\Debug\MATRIXCALCULATOR.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\bin\Debug\MATRIXCALCULATOR.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\obj\Debug\MATRIXCALCULATOR.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\obj\Debug\MATRIXCALCULATOR.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\obj\Debug\MATRIXCALCULATOR.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\obj\Debug\MATRIXCALCULATOR.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\obj\Debug\MATRIXCALCULATOR.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATRIXCALCULATOR\MATRIXCALCULATOR\obj\Debug\MATRIXCALCULATOR.csprojAssemblyReference.cache

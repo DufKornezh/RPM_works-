@@ -1,0 +1,8 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\bin\Release\ANIMATION.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\bin\Release\ANIMATION.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\bin\Release\ANIMATION.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\obj\Release\ANIMATION.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\obj\Release\ANIMATION.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\obj\Release\ANIMATION.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\obj\Release\ANIMATION.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\ANIMATION\ANIMATION\obj\Release\ANIMATION.pdb
