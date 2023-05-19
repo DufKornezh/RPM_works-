@@ -1,0 +1,21 @@
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\bin\Debug\MOS.exe.config
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\bin\Debug\MOS.exe
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\bin\Debug\MOS.pdb
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\obj\Debug\MOS.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\obj\Debug\MOS.Form1.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\obj\Debug\MOS.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\obj\Debug\MOS.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\obj\Debug\MOS.exe
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\MOS\MOS\obj\Debug\MOS.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\bin\Debug\MOS.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\bin\Debug\MOS.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\bin\Debug\MOS.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.csproj.GenerateResource.Cache
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\bin\Debug\MOS.exe.config
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.exe
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MOS\MOS\obj\Debug\MOS.pdb

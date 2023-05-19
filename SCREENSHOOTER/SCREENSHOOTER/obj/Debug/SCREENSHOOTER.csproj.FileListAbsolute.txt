@@ -1,0 +1,20 @@
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\bin\Debug\SCREENSHOOTER.exe.config
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\bin\Debug\SCREENSHOOTER.exe
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\bin\Debug\SCREENSHOOTER.pdb
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.Form1.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.ScreenShot.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.exe
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\bin\Debug\SCREENSHOOTER.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\bin\Debug\SCREENSHOOTER.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\bin\Debug\SCREENSHOOTER.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.ScreenShot.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\SCREENSHOOTER\SCREENSHOOTER\obj\Debug\SCREENSHOOTER.csproj.GenerateResource.Cache
